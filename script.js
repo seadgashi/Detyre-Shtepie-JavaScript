@@ -2,7 +2,7 @@
 
 ///////////////////////////////// Deyra e pare ///////////////////////////////////////
 
-let names = ["Ronaldo","Messi","Shaqiri","Graniti"];
+let names = ["Kosove","Shqiperi","Maqedoni"];
 
 let listaEmrave=document.querySelector('#lista');
 
